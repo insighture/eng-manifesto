@@ -1,7 +1,5 @@
 ####################################
-### 💡     Insighture     💡 ###
-### Empowering Decisions Through ###
-###     Data-Driven Insights     ###
+### 💡  Insighture Engineering 💡 ###
 ####################################
 
 # Engineering Manifesto: Building the Future with Insighture
