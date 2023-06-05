@@ -16,6 +16,14 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 7. **Don't Repeat Yourself (DRY):** We emphasize the importance of code reusability and maintainability. By following the DRY principle, we minimize duplication, reduce complexity, and enhance productivity, ensuring our codebase remains clean, efficient, and easy to manage.
 
+8. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
+
+9. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
+
+10. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
+
+11. **Clean Code:** We prioritize clean code principles. We take pride in our work and have implemented necessary controls to minimize any slip-ups on our end. By adhering to clean code practices, we ensure maintainable, readable, and high-quality code that leads to better outcomes for our clients.
+
 With our engineering manifesto as our guiding compass, we strive to deliver cutting-edge solutions that push the boundaries of innovation, scalability, and reliability. We embrace emerging technologies, leverage industry best practices, and foster a culture of continuous learning and improvement.
 
 At Insighture, we are passionate about engineering excellence and are committed to building a future where technology empowers businesses and transforms lives.
