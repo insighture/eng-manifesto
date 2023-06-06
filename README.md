@@ -22,18 +22,21 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 7. **Clean Code:** We prioritize clean code principles. We take pride in our work and have implemented necessary controls to minimize any slip-ups on our end. By adhering to clean code practices, we ensure maintainable, readable, and high-quality code that leads to better outcomes for our clients.
 
+8. **Modular Development:**  We promote modular development practices to enhance code reusability, maintainability, and overall efficiency. By breaking down complex systems into smaller, self-contained modules, we minimize duplication, reduce complexity, and improve productivity. Modular development ensures a clean and efficient codebase that is easier to manage and maintain over time.
 
+9. **Comprehensive Documentation:** Our emphasis on comprehensive documentation enables effective utilization of our systems, processes, and products. User manuals, installation guides, API references, and system architecture diagrams ensure clear communication for efficient implementation, operation, and maintenance. This promotes knowledge transfer, reduces reliance on individual expertise, and contributes to project success.
+ 
 ## Innovation in Engineering Practices
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
 
-8. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
+10. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
 
-9. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
+11. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
 
-10. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
+12. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
 
-11. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
+13. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
 
 With our engineering manifesto as our guiding compass, we strive to deliver cutting-edge solutions that push the boundaries of innovation, scalability, and reliability. We embrace emerging technologies, leverage industry best practices, and foster a culture of continuous learning and improvement.
 
