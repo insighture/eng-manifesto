@@ -1,6 +1,6 @@
-####################################
+###############################
 ### 💡  Insighture Engineering    💡 ###
-####################################
+###############################
 
 # Engineering Manifesto: Building the Future with Insighture
 
