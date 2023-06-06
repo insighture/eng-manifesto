@@ -18,20 +18,22 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 5. **Evolutionary Architecture over Big Upfront Design (BUFD):** We believe in the power of evolutionary architecture, where systems evolve and adapt iteratively. Instead of investing significant time in upfront design, we prioritize incremental improvements and flexibility to embrace changing business needs and emerging technologies.
 
-6. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
+6. **The Six Modern Principles of Modern Data Architecture:** Our data architecture principles revolve around scalability, reliability, security, ease of use, flexibility, and cost optimization. We apply these principles to design data pipelines, storage systems, and analytics solutions that empower our clients to leverage the full potential of their data.
 
-7. **The Six Modern Principles of Modern Data Architecture:** Our data architecture principles revolve around scalability, reliability, security, ease of use, flexibility, and cost optimization. We apply these principles to design data pipelines, storage systems, and analytics solutions that empower our clients to leverage the full potential of their data.
+7. **Clean Code:** We prioritize clean code principles. We take pride in our work and have implemented necessary controls to minimize any slip-ups on our end. By adhering to clean code practices, we ensure maintainable, readable, and high-quality code that leads to better outcomes for our clients.
+
 
 ## Innovation in Engineering Practices
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
 
-8. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
+8. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
 
-9. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
+9. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
 
-10. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
-11. **Clean Code:** We prioritize clean code principles. We take pride in our work and have implemented necessary controls to minimize any slip-ups on our end. By adhering to clean code practices, we ensure maintainable, readable, and high-quality code that leads to better outcomes for our clients.
+10. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
+
+11. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
 
 With our engineering manifesto as our guiding compass, we strive to deliver cutting-edge solutions that push the boundaries of innovation, scalability, and reliability. We embrace emerging technologies, leverage industry best practices, and foster a culture of continuous learning and improvement.
 
