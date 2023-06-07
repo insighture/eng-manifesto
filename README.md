@@ -12,7 +12,7 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 2. **Don't Repeat Yourself (DRY):** We emphasize the importance of code reusability and maintainability. By following the DRY principle, we minimize duplication, reduce complexity, and enhance productivity, ensuring our codebase remains clean, efficient, and easy to manage.
 
-3. **CAP Theorem:** We understand the trade-offs between consistency, availability, and partition tolerance. Our engineering decisions consider the specific requirements of each system, ensuring the appropriate balance is struck to meet business objectives and user expectations.
+3. **CAP Theorem:** We understand the trade-offs between consistency, availability, and partition tolerance. Our engineering decisions on distributed systems consider the specific requirements of each system, ensuring the appropriate balance is struck to meet business objectives and user expectations.
 
 4. **Reactive Manifesto:** We champion the principles of responsiveness, elasticity, resilience, and message-driven communication. Our systems are designed to be reactive, ensuring they can handle varying workloads, maintain high availability, and deliver optimal performance.
 
