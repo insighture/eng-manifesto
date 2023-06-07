@@ -1,4 +1,6 @@
-# Engineering Manifesto: Innovation, Community, Efficiency: This is Insighture! 
+# Engineering Manifesto 
+
+## Innovation, Community, Efficiency: This is Insighture! 
 
 ## Principles of Engineering Excellence
 
