@@ -25,7 +25,13 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 8. **Modular Development:**  We promote modular development practices to enhance code reusability, maintainability, and overall efficiency. By breaking down complex systems into smaller, self-contained modules, we minimize duplication, reduce complexity, and improve productivity. Modular development ensures a clean and efficient codebase that is easier to manage and maintain over time.
 
 9. **Comprehensive Documentation:** Our emphasis on comprehensive documentation enables effective utilization of our systems, processes, and products. User manuals, installation guides, API references, and system architecture diagrams ensure clear communication for efficient implementation, operation, and maintenance. This promotes knowledge transfer, reduces reliance on individual expertise, and contributes to project success.
- 
+
+10. **Agile Principles:**
+
+11. **Collaboration and Communication:**
+
+12. **Ethical Considerations:**
+
 ## Innovation in Engineering Practices
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
