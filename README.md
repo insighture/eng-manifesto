@@ -36,13 +36,13 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
 
-10. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
+1. **AWS Well-Architected Framework and Microsoft Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
 
-11. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
+2. **Champions of Refactoring for Modernizations:** We are advocates of refactoring as a means to modernize systems. We use the best tools, techniques, and practices available to ensure that refactoring efforts result in improved long-term outcomes, minimizing technical debt and future challenges.
 
-12. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
+3. **Event Driven / Event Sourced / Distributed Architecture:** We have a deep understanding of distributed computing at its core. We are passionate about event sourcing and event-driven architectures. Through collaborative efforts, we work with clients to unlock the potential of their platforms while keeping the running costs to a minimum.
 
-13. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
+4. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
 
 With our engineering manifesto as our guiding compass, we strive to deliver cutting-edge solutions that push the boundaries of innovation, scalability, and reliability. We embrace emerging technologies, leverage industry best practices, and foster a culture of continuous learning and improvement.
 
