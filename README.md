@@ -1,8 +1,4 @@
-###############################
-### 💡  Insighture Engineering    💡 ###
-###############################
-
-# Engineering Manifesto: Building the Future with Insighture
+# Engineering Manifesto: Innovation,Community,Efficiency: This is Insighture! 
 
 ## Principles of Engineering Excellence
 
