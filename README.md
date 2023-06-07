@@ -26,11 +26,11 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 9. **Comprehensive Documentation:** Our emphasis on comprehensive documentation enables effective utilization of our systems, processes, and products. User manuals, installation guides, API references, and system architecture diagrams ensure clear communication for efficient implementation, operation, and maintenance. This promotes knowledge transfer, reduces reliance on individual expertise, and contributes to project success.
 
-10. **Agile Principles:**
+10. **Agile Principles:** We embrace agile methodologies, valuing individuals and interactions, working software, customer collaboration, and responding to change. We deliver valuable software incrementally and iteratively.
 
-11. **Collaboration and Communication:**
+11. **Collaboration and Communication:** We foster a culture of open communication and collaboration among team members, stakeholders, and users. Effective communication is the foundation of successful software development.
 
-12. **Ethical Considerations:**
+12. **Ethical Considerations:** We recognize the impact of our work on society, and we commit to ethical software development practices. We prioritize data privacy, terms, security, and accessibility while avoiding harm and promoting inclusivity.
 
 ## Innovation in Engineering Practices
 
