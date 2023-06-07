@@ -32,7 +32,7 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 12. **Ethical Considerations:** We recognize the impact of our work on society, and we commit to ethical software development practices. We prioritize data privacy, terms, security, and accessibility while avoiding harm and promoting inclusivity.
 
-## Innovation in Engineering Practices
+## Engineering Best Practices
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
 
