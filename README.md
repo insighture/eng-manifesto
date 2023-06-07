@@ -44,6 +44,8 @@ At Insighture, we strive to be at the forefront of engineering practices, consta
 
 4. **Automation:** We promote automation in all aspects of our work. We empower our engineers to automate tasks to the extent that they render themselves redundant in client projects. Our philosophy is that if not for us, then it's for someone else. We believe automation drives efficiency, reliability, and scalability.
 
+5. **Compliance, Regulatory, and Security Frameworks**: We place utmost importance on compliance and security in the ever-evolving digital landscape. We remain vigilant and up to date with the latest industry standards, regulatory requirements, and security frameworks. By seamlessly integrating these guidelines into our engineering practices, we guarantee that our solutions adhere to the required compliance standards and establish a secure environment for safeguarding data protection and privacy.
+
 With our engineering manifesto as our guiding compass, we strive to deliver cutting-edge solutions that push the boundaries of innovation, scalability, and reliability. We embrace emerging technologies, leverage industry best practices, and foster a culture of continuous learning and improvement.
 
 At Insighture, we are passionate about engineering excellence and are committed to building a future where technology empowers businesses
