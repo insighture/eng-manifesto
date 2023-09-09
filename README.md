@@ -38,7 +38,7 @@ At Insighture, we embrace a forward-thinking engineering approach that drives ou
 
 At Insighture, we strive to be at the forefront of engineering practices, constantly seeking new ways to enhance our solutions and deliver exceptional outcomes. Our manifesto extends to the following innovative practices:
 
-1. **AWS Well-Architected Framework and Azure Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
+1. **AWS Well-Architected Framework and Microsoft Azure Well-Architected Framework:** We leverage the industry-leading best practices provided by AWS Well-Architected Framework and Microsoft Azure Well-Architected Framework. These frameworks guide our architecture design and implementation, enabling us to build secure, reliable, efficient, and cost-effective solutions on cloud platforms.
 
 2. **Champions of Refactoring for Modernization:** We are advocates of refactoring as a means to modernise systems. We use the best tools, techniques, and practises available to ensure that refactoring efforts result in improved long-term outcomes, minimising technical debt and future challenges.
 
